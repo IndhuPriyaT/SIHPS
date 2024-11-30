@@ -10,9 +10,22 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+Alumni Registration and Profile Updation: Upon accessing the web or app for the first time, alumni will be prompted with a "Register Now" form. This form will be visible only to first-time users. To update their profiles, alumni can click on the profile icon located in the top-left corner of the homepage (the "home icon"). This section also includes a feedback portal, which directs users to a Google Form, allowing alumni to provide feedback on past events.
+
+Networking Hub: Networking is a vital tool for both personal and career growth. To facilitate this, we will create a dedicated space for alumni to engage in discussions and build a community. This "Networking Hub" will be a forum-style chat space where alumni can reminisce, share knowledge, and connect with others. At the top of the space, we’ll display avatar profiles of registered members, showcasing the information they wish to share (e.g., location, social media handles, and contact details). Each profile will include an option for private messaging, allowing members to have one-on-one conversations.
+
+Job Portal: Our AI-powered job portal will analyze users' preferences, skills, and interests to recommend job opportunities tailored to them. The AI will also provide insights into the skills required for trending career paths, helping alumni stay up-to-date with the job market and improve their career development.
+
+Events and Reunions: A monthly event calendar will display upcoming events and reunions, accompanied by pop-up notifications to keep alumni informed. These notifications will feature nostalgic photos, reminding users of special memories. The calendar will include a Google Meet link for event organizers, allowing them to plan and coordinate events. This link will only be visible to those with organizer privileges.
+
+Success Story Tracking: The website will feature a dynamic parallax effect to highlight alumni success stories. Alumni will have the ability to edit their stories to reflect new accomplishments or updates. These stories will be showcased in the "Pride and Recognition" section, where the achievements of alumni can inspire others.
+
+Donation Portal: We believe that every contribution counts. The donation portal allows alumni to support various social causes within the campus, fostering improvements in the educational environment. Alumni can choose from several "piggy bank" options for different causes, each generating a QR code for easy, efficient donations.
 
 
 ## Proposed Solution / Architecture Diagram
+
+
 
 
 ## Use Cases
