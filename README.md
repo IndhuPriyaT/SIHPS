@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 30.11.2024
+## Register Number: 24007533
+## Name: Indhu Priya.T
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -24,15 +24,82 @@ Donation Portal: We believe that every contribution counts. The donation portal 
 
 
 ## Proposed Solution / Architecture Diagram
+<img src="https://github.com/user-attachments/assets/22d3742c-7dd6-4172-aa66-360f9aab6728"/>
+
 
 
 
 
 ## Use Cases
+<img src="https://github.com/user-attachments/assets/421cfa55-a7f9-40f9-a763-35717332e557"/>
 
 
 ## Technology Stack
+Frontend:
+
+HTML5, CSS3, JavaScript
+
+Backend:
+
+Firebase (Authentication, Realtime Database, Hosting)
+
+
+Third-Party Integrations:
+
+Google APIs (Forms, Calendar, Meet)
+Firebase or Pusher (Real-time chat)
+Stripe/PayPal (Payment gateway)
+
+Design:
+
+Figma or Canva
+Free UI templates from UI8/ThemeForest
+
+Support:
+
+Mailchimp (email marketing)
+Tawk.to (live chat)
+
+Development Tools:
+
+GitHub (version control)
+GitHub Actions (CI/CD)
+Firebase (deployment and hosting)
+
+
 
 
 ## Dependencies
+1. Frontend:
+HTML5, CSS3, JavaScript: Basic web technologies for building the platform.
+Bootstrap: For responsive design and layout.
+Figma/Canva: Tools for UI/UX design and visual assets.
+
+3. Backend:
+Firebase: Free tier for authentication, database (Firestore), and hosting.
+
+4. Mobile App (Optional):
+Ionic/PhoneGap: Hybrid frameworks for iOS and Android apps.
+Capacitor/Cordova: For native device features.
+
+6. Integrations:
+Google Forms: For collecting feedback.
+Google Calendar/Meet APIs: For events and video calls.
+Firebase Realtime Database/Pusher: For real-time chat.
+Stripe/PayPal: Payment gateways for donations.
+
+
+8.Firebase Hosting: For hosting the platform.
+Netlify/Vercel: Alternative free hosting for static sites.
+
+9. Support:
+Mailchimp: Email marketing .
+Tawk.to: Free live chat support.
+
+11. Deployment & Maintenance:
+GitHub: For version control.
+GitHub Actions: For CI/CD automation.
+
+Budget: Rs.70,000/-
+
 
